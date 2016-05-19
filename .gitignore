@@ -1,0 +1,5 @@
+# ignore editor swap files etc.
+*~
+\#*\#
+*.swp
+*.swo
