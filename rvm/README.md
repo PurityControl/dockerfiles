@@ -7,7 +7,7 @@ as described in the section
 [Multi-User Installs - Using the sudo command](https://rvm.io/support/troubleshooting)
 as rvm should not be installed by the root user.
 
-### Dependencies 
+### Dependencies
 
 - sudo
 - libpqdev
