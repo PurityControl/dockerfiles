@@ -1,3 +1,5 @@
+FROM rabbitmq
+
 # instal STOMP and web management plugins
 RUN rabbitmq-plugins enable rabbitmq_management && rabbitmq-plugins enable rabbitmq_stomp
 
